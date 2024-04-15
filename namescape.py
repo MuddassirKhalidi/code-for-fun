@@ -1,7 +1,7 @@
 '''
 Problem Link: https://www.hackerrank.com/contests/programming-jam-9/challenges/namescape
 '''
-n = int(input())
+m = int(input('Enter a number: '))
 names = {}
 for x in range(n):
     name = input().lower().split()
